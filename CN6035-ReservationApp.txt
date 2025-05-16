@@ -1,0 +1,30 @@
+CN6035-ReservationApp/
+│
+├── backend/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── app.js
+│   ├── config.js
+│   ├── package.json
+│
+├── frontend/
+│   ├── App.js
+│   ├── package.json
+│   ├── screens/
+│   │   ├── LoginScreen.js
+│   │   ├── RegisterScreen.js
+│   │   ├── RestaurantsScreen.js
+│   │   ├── ReservationScreen.js
+│   │   ├── ProfileScreen.js
+│   │
+│   ├── components/
+│
+├── db/
+│   ├── schema.sql
+│
+├── README.md
+│
+└── presentation.pptx
